@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What torque value is specified for the main pump mounting bolts?",
+    "document": "hydraulic_pump_manual.pdf",
+    "page": 12
+  },
+  {
+    "question": "What is the recommended interval for replacing the hydraulic filter?",
+    "document": "hydraulic_pump_manual.pdf",
+    "page": 27
+  }
+]
